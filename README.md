@@ -1,5 +1,5 @@
 
-# 🧹 Sales Dataset Cleaning - Task 1
+#  Sales Dataset Cleaning - Task 1
 
 This project demonstrates **data cleaning techniques** using Python and Pandas on a **sales dataset**. It is part of my learning journey to improve my **data analysis and data preprocessing** skills for analytics and machine learning.
 
