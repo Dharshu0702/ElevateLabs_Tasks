@@ -5,7 +5,7 @@ This task demonstrates **data cleaning techniques** using Python and Pandas on a
 
 ---
 
-## 📌 Overview
+##  Overview
 
 In this task, I took a **raw sales dataset** and cleaned it step by step. The main goals were to:
 
@@ -17,7 +17,7 @@ In this task, I took a **raw sales dataset** and cleaned it step by step. The ma
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 * **Python 3**
 * **Pandas** – data manipulation
@@ -32,7 +32,7 @@ pip install pandas numpy
 
 ---
 
-## 🧾 Steps Performed
+## Steps Performed
 
 ### 1️⃣ Importing Libraries and Dataset
 
