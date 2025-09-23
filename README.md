@@ -139,6 +139,7 @@ Sales-Data-Cleaning/
 ✔ Columns renamed for consistency
 
 ✔ Data types corrected
+
 ---
 ---
 
