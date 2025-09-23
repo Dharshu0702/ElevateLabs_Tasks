@@ -142,7 +142,7 @@ Sales-Data-Cleaning/
 ---
 ---
 
-## Task 2 – Superstore Sales Performance (Tableau)
+## Superstore Sales Performance (Tableau) - Task 2
 
 In this task, I analyzed the **Superstore dataset** using Tableau Public to uncover insights into sales and profitability.
 
