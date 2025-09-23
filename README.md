@@ -139,3 +139,34 @@ Sales-Data-Cleaning/
 ✔ Columns renamed for consistency
 
 ✔ Data types corrected
+---
+---
+
+## Task 2 – Superstore Sales Performance (Tableau)
+
+In this task, I analyzed the **Superstore dataset** using Tableau Public to uncover insights into sales and profitability.
+
+### Steps Performed
+- Created multiple **worksheets**:
+  - Sales & Profit over Time  
+  - Profitability by Region  
+  - Categories with High Sales  
+  - Impact of Discounts on Profit  
+  - Top 5 Profitable States  
+
+- Built a **dashboard** for interactive analysis.  
+- Created a **story** combining all the sheets to narrate insights step by step.  
+- Exported the final story as a PDF for submission.  
+
+### Key Insights
+- California contributes the highest profit, while Texas and Pennsylvania show consistent losses.  
+- Technology category drives maximum profits.  
+- High discounts often negatively impact profitability.  
+- The West region is the most profitable overall.  
+
+### Files in Task2
+- `Supersales_performance.twbx` → Tableau Packaged Workbook  
+- `Supersales_performance_visualization.pdf` → Exported Story in PDF  
+
+---
+
