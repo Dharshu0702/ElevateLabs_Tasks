@@ -259,7 +259,10 @@ Coffee-Sales-Dashboard/
 ### Summary of Outcomes
 
 ✔ Dashboard with interactive filters
+
 ✔ KPI cards for Sales, Profit, Orders, Growth
+
 ✔ Time-series analysis for trends
+
 ✔ Product & customer insights
-✔ PPT summary for stakeholders
+
