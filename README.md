@@ -252,12 +252,11 @@ Used coffee-themed color palette.
 ###  Project Structure
 
 Coffee-Sales-Dashboard/
-
 ├── Coffe_sales.csv                 # Original dataset
+├── Tableau_Coffee_Dashboard.twbx   # Tableau workbook file
+└── financial_sales_performance.pdf # Exported dashboard (PDF version)
+ 
 
-├── Tableau_Coffee_Dashboard.twbx   # Tableau workbook
-
-└── financial_sales_performance.pdf # Exported dashboard PDF
 
 
 
