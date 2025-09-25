@@ -250,11 +250,16 @@ Applied filters (Coffee Name, Payment, Date).
 Used coffee-themed color palette.
 
 ###  Project Structure
+
 Coffee-Sales-Dashboard/
+
 ├── Coffe_sales.csv                 # Original dataset
+
 ├── Tableau_Coffee_Dashboard.twbx   # Tableau workbook
-├── financial_sales_performance.pdf # Exported dashboard PDF
-└── Coffee_Sales_Summary.pptx       # Business PPT summary
+
+└── financial_sales_performance.pdf # Exported dashboard PDF
+
+
 
 ### Summary of Outcomes
 
