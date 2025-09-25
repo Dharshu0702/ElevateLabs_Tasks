@@ -171,3 +171,95 @@ In this task, I analyzed the **Superstore dataset** using Tableau Public to unco
 
 ---
 
+---
+### Coffee Sales Dashboard – Task 3
+
+This task demonstrates creating an interactive Tableau dashboard from a coffee sales dataset. It is part of my learning journey to improve data visualization, storytelling, and business analytics skills.
+
+ ### Overview
+
+In this task, I took a cleaned coffee sales dataset and built a dashboard in Tableau.
+The main goals were to:
+
+Track key KPIs (Total Sales, Profit, Orders, Growth %)
+
+Add filters & slicers for interactivity
+
+Perform time-series analysis on sales and growth
+
+Create summary KPI cards for stakeholders
+
+Apply a consistent coffee-themed design
+
+Export a PPT summary for business review
+
+### Tools Used
+
+Tableau Desktop – Dashboard creation
+
+Excel / CSV – Data preparation
+
+PowerPoint – Summary report for stakeholders
+
+ ### Steps Performed
+
+1️⃣ Importing Data
+
+Loaded Coffe_sales.csv into Tableau.
+
+Verified column types (Date, Money, Coffee Name, Payment Type).
+
+2️⃣ Data Cleaning (minor fixes in Tableau)
+
+Converted Date field to proper Date type.
+
+Ensured Weekday and Month sorted correctly using helper columns.
+
+3️⃣ KPI Cards
+
+Created calculated fields:
+
+Total Sales = SUM([money])
+
+Profit = SUM([money]) * 0.7 (assumed margin)
+
+Avg Daily Sales = SUM([money]) / COUNTD([Date])
+
+MoM Growth % = (SUM([money]) - LOOKUP(SUM([money]), -1)) / LOOKUP(SUM([money]), -1)
+
+4️⃣ Visualizations
+
+Sales over Time (Line Chart)
+
+MoM Growth % (Line Chart)
+
+Sales by Coffee Type (Bar Chart)
+
+Sales by Payment Method (Pie/Bar)
+
+Peak Hours Heatmap (Weekday × Hour)
+
+5️⃣ Dashboard Assembly
+
+Added KPI Cards (top row).
+
+Arranged charts into clean layout.
+
+Applied filters (Coffee Name, Payment, Date).
+
+Used coffee-themed color palette.
+
+###  Project Structure
+Coffee-Sales-Dashboard/
+├── Coffe_sales.csv                 # Original dataset
+├── Tableau_Coffee_Dashboard.twbx   # Tableau workbook
+├── financial_sales_performance.pdf # Exported dashboard PDF
+└── Coffee_Sales_Summary.pptx       # Business PPT summary
+
+### Summary of Outcomes
+
+✔ Dashboard with interactive filters
+✔ KPI cards for Sales, Profit, Orders, Growth
+✔ Time-series analysis for trends
+✔ Product & customer insights
+✔ PPT summary for stakeholders
